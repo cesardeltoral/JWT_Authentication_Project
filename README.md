@@ -1,0 +1,1 @@
+A Spring Security project implementing JWT-based authentication and authorization. Features include secure user registration, login, and role-based access control for REST APIs. Ideal for Java applications needing stateless, token-based security with customizable roles and permissions.
